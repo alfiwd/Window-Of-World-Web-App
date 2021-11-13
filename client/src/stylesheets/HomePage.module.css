@@ -1,0 +1,48 @@
+/* =========================== Left Side ===========================*/
+.logo {
+  margin-bottom: 10px;
+}
+.userPhoto {
+  margin-bottom: 30px;
+  width: 100px;
+  height: 100px;
+  box-shadow: 0 0 20px black;
+  border-radius: 100%;
+}
+.name {
+  font-size: 24px;
+  font-weight: bolder;
+}
+.textSubs {
+  font-size: 18px;
+  color: #d60000;
+  font-weight: bolder;
+}
+.textSubsDone {
+  font-size: 18px;
+  color: #29bd11;
+  font-weight: bolder;
+}
+.icon {
+  width: 25px;
+  height: 25px;
+  margin-right: 20px;
+}
+.border {
+  border: 2px solid black;
+}
+.listMenu {
+  /* border: 2px solid black; */
+  width: 65%;
+  margin: 0 auto;
+}
+.hr {
+  width: 65%;
+  margin: 0 auto;
+}
+
+/* =========================== List Book ===========================*/
+.listBook {
+  padding: 10px;
+  width: 80%;
+}

@@ -1,0 +1,42 @@
+#landingPage {
+  width: 100vw;
+  height: 100vh;
+  background: url(../assets/img/Vector1.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.checkBorder {
+  border: 2px solid black;
+}
+.size {
+  width: 549px;
+  height: 605px;
+  margin: 100px 0 0;
+}
+.p {
+  font-size: 24px;
+  margin: -75px 0 70px 0;
+}
+.allBtn {
+  border: none;
+  border-radius: 5px;
+  width: 180px;
+  height: 50px;
+  color: white;
+  font-weight: bolder;
+  cursor: pointer;
+}
+.btnSignUp {
+  background-color: #d60000;
+}
+.btnSignUp:hover {
+  background-color: #970000;
+}
+.btnSignIn {
+  background-color: #cdcdcd;
+  margin-left: 40px;
+  color: black;
+}
+.btnSignIn:hover {
+  background-color: rgb(89, 89, 89);
+}
